@@ -6995,6 +6995,7 @@ form .select-block .select_header span {
 }
 #search .input-group{
 	height:100%;
+	    width: 100%;
 }
 #search .input-group input{
     border-radius: 5px;
