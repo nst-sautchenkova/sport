@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "GothamPro";
+    src: url("../fonts/GothamPro/GothamProRegular.eot");
+    src: url("../fonts/GothamPro/GothamProRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamPro/GothamProRegular.woff") format("woff"),
+    url("../fonts/GothamPro/GothamProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "GothamProMedium";
+    src: url("../fonts/GothamPro/GothamProMedium.eot");
+    src: url("../fonts/GothamPro/GothamProMedium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamPro/GothamProMedium.woff") format("woff"),
+    url("../fonts/GothamPro/GothamProMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "GothamProBold";
+    src: url("../fonts/GothamPro/GothamProBold.eot");
+    src: url("../fonts/GothamPro/GothamProBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamPro/GothamProBold.woff") format("woff"),
+    url("../fonts/GothamPro/GothamProBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "GothamProBlack";
+    src: url("../fonts/GothamPro/GothamProBlack.eot");
+    src: url("../fonts/GothamPro/GothamProBlack.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamPro/GothamProBlack.woff") format("woff"),
+    url("../fonts/GothamPro/GothamProBlack.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'open_sans';
+    src: url('../fonts/Opensans/opensans-regular-webfont.eot');
+    src: url('../fonts/Opensans/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Opensans/opensans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/Opensans/opensans-regular-webfont.woff') format('woff'),
+         url('../fonts/Opensans/opensans-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
